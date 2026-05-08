@@ -1,0 +1,7 @@
+credentials/*
+!credentials/.gitkeep
+*.swp
+*.pyc
+.venv/
+.pyenv/
+*.egg-info/
