@@ -1,5 +1,7 @@
 credentials/*
-!credentials/.gitkeep
+!credentials/*/
+credentials/**/*
+!credentials/**/.gitkeep
 *.swp
 *.pyc
 .venv/
